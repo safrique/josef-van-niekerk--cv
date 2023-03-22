@@ -1,5 +1,8 @@
 <?php
 
+use App\Http\Controllers\CustomFieldController;
+use App\Http\Controllers\CvController;
+use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
